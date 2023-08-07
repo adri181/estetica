@@ -1,0 +1,63 @@
+*
+{
+    padding: 0px;
+    margin: 0px;
+}
+
+body
+{
+    background-color: #FFE4FF;
+}
+
+#menu
+{
+    padding: 24px; 
+    margin: 15px;
+    box-sizing: content-box;
+} 
+
+#cabecalho
+{ 
+    background-color: #FFF0F5;
+    padding-left: 30px;
+    margin: 0;
+}
+
+#rodape
+{
+    background-color: #FFF0F5;
+    text-align: center;
+}
+
+a
+{
+    margin: 10px;
+    font-size: 20px;
+}
+
+h1
+{
+    padding: 24px;
+}
+
+p
+{
+    line-height: 20px;
+    font-size: 1.2em;
+    margin: 8px 0;
+    font-family: serif;
+}
+
+#imagens
+{
+    text-align: center;
+    width: 100%;
+
+}
+
+#img img
+{
+    width: 100%;
+}
+
+    
